@@ -1,11 +1,16 @@
 {
   "name": "cra-template-todo-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xitengfei/cra-template-todo-app.git"
+  },
   "files": [
     "template",
     "template.json"
   ],
+  "description": "Simple Demo app build with react+redux+router+ts can be used as initial project.",
   "keywords": [
     "react",
     "create-react-app",
